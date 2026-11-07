@@ -1,0 +1,8 @@
+/* Minimal - das Overlay setzt seine Styles selbst per JS (CSP-freundlich). */
+#wfx-hover-box,
+#wfx-sel-box {
+  transition: none !important;
+}
+#wfx-sel-label {
+  font-variant-numeric: tabular-nums;
+}

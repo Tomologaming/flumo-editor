@@ -1,0 +1,13 @@
+# Lokale Installation (enthaelt Zugangsdaten) - niemals committen
+app/config.php
+
+# Arbeitskopie, Entwuerfe, Backups, Protokolle
+workspace/
+
+# Tests-Artefakte
+tests/tmp/
+
+# System
+.DS_Store
+Thumbs.db
+*.log
